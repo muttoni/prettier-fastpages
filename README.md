@@ -1,6 +1,6 @@
 # Cosmetic Tweaks to Improve Fastpages
 
-A custom-styles.scss to improve the look and feel of fastai/fastpages
+A carefully crafted `custom-styles.scss` to improve the look and feel of fastai/fastpages.
 
 Improvements:
 - better code and output padding
