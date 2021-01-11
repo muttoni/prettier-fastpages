@@ -7,6 +7,7 @@ Improvements:
 - cleaner code bordering
 - more minimal output styling
 - adds an elegant "OUTPUT" label to the output block
+- improved post listings with images and typographic balance
 - fixes the font size of code snippets inside lists
 - fixes bug whereby graphviz (gv) generates a DOCTYPE that shows up in the generated post (e.g.
 > `"<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
