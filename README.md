@@ -12,7 +12,7 @@ A carefully crafted `custom-styles.scss` to improve the look and feel of fastai/
 
 |Before|After|
 |---|---|
-|![](https://i.imgur.com/6OdYyAK.png)|![](https://i.imgur.com/GyybX1w.png)|
+|![](https://i.imgur.com/AcL17uI.png)|![](https://i.imgur.com/GyybX1w.png)|
 
 
 ### Improved Post List Styling
